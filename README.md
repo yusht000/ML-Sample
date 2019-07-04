@@ -14,6 +14,5 @@ https://www.joinquant.com/view/community/detail/a98b7021e7391c62f6369207242700b2
 https://zhuanlan.zhihu.com/p/23966698
 # k-means 
 https://www.cnblogs.com/zhzhang/p/5437778.html
-
 # svm
 https://blog.csdn.net/alwaystry/article/details/60957096
